@@ -1,6 +1,6 @@
 .h1 {
   text-align: center;
 }
-.body{
-  background-image:game.jpg;
+.body {
+  background-image:url(img/game.jpg);
 }
