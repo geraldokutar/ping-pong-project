@@ -1,12 +1,26 @@
 body {
   background-image: url("../img/the_elder_scrolls_online.jpg");
+
 }
 p {
   color: white;
+  font-size:40px;
 }
 h1 {
   color: black;text-align: center;
 }
-.enter {
-  color: white;
+button {
+  color: black;
+
+}
+.form-group {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+body {
+  font-family: 'Indie Flower', cursive;
+}
+.output-ping {
+  font-size: 30px;
 }
